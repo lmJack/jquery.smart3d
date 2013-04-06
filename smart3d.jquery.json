@@ -4,13 +4,9 @@
     "description": "Pseudo 3D effect jQuery plugin. Very simple to use: several layers glued together into a 3D effect. Can be used on site-header.",
     "keywords": [
         "slider",
-        "carousel",
         "effects",
-        "slide",
-        "fade",
-        "HTML5",
-        "rotate",
-        "scale"
+        "3D",
+        "pseudo 3D"
     ],
     "version": "0.3.4",
     "author": {
