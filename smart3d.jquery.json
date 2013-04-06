@@ -1,0 +1,35 @@
+{
+    "name": "smart3d",
+    "title": "jQuery.Smart3D",
+    "description": "Pseudo 3D effect jQuery plugin. Very simple to use: several layers glued together into a 3D effect. Can be used on site-header.",
+    "keywords": [
+        "slider",
+        "carousel",
+        "effects",
+        "slide",
+        "fade",
+        "HTML5",
+        "rotate",
+        "scale"
+    ],
+    "version": "0.3.4",
+    "author": {
+        "name": "Yevhen",
+		"email" : "evgennniy@gmail.com",
+        "url": "http://4coder.info/en/author/"		
+    },
+    "licenses": [
+        {
+			"type": "GPLv2",
+			"url": "http://www.gnu.org/licenses/gpl-2.0.html"
+        }
+    ],
+    "bugs": "http://4coder.info/en/code/jquery-plugins/smart3d/comments/",
+    "homepage": "http://4coder.info/en/code/jquery-plugins/smart3d/",
+    "demo": "http://4coder.info/demo/jquery-smart3D/",
+    "docs": "http://4coder.info/en/code/jquery-plugins/smart3d/",
+    "download": "http://4coder.info/en/code/jquery-plugins/smart3d/download/",
+    "dependencies": {
+        "jquery": ">=1.4"
+    }
+}
